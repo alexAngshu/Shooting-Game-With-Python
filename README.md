@@ -1,6 +1,8 @@
 # Shooting-Game-With-Python
-`Angshuman Bora 
-angshuman.bora.official@gmail.com`
+```
+Angshuman Bora
+angshuman.bora.official@gmail.com
+```
 
 ![Screenshot](PyGame.png)
 
@@ -8,8 +10,8 @@ angshuman.bora.official@gmail.com`
 > python run.py
 
 ### REQUIRED MODULE 
-> pygame
-> numpy
+-[x] pygame
+-[x] numpy
 
 ### CONTROLS
 - key up -> UP
