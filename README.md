@@ -10,8 +10,8 @@ angshuman.bora.official@gmail.com
 > python run.py
 
 ### REQUIRED MODULE 
--[x] pygame
--[x] numpy
+- [x] pygame
+- [x] numpy
 
 ### CONTROLS
 - key up -> UP
